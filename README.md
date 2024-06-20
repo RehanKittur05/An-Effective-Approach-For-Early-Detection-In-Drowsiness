@@ -1,4 +1,5 @@
 Title: An Effective Approach For Early Detection In Drowsiness
+
 Description: Developed a real-time drowsiness detection system using computer vision and machine learning techniques to enhance driver safety by alerting them when signs of fatigue are detected.
 
 Key Features:
